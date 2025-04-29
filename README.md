@@ -22,5 +22,5 @@
 - `requirements.txt`: Файл с зависимостями.
 - `README.md`: Описание проекта. 
 ## Видео-демонстрация 
-[Ссылка на видео](https://github.com/Cifrovaya-Alina/predictive_maintenance_project/blob/main/video/proekt.mp4)
-<video src="proekt/video.mp4" controls width="100%"></video>)
+[Ссылка на видео][(https://github.com/Cifrovaya-Alina/predictive_maintenance_project/blob/main/video/proekt.mp4)
+<video src="proekt/video.mp4" controls width="100%"></video>)](https://disk.yandex.ru/i/JJ-hxAL7ng5Ltg)
