@@ -10,13 +10,17 @@
  (https://archive.ics.uci.edu/dataset/601/predictive+maintenance+data)
  ## Установка и запуск 
 1. Клонируйте репозиторий: 
-   git clone <ссылка на репозиторий>
+   git clone [<ссылка на репозиторий>](https://github.com/Cifrovaya-Alina/predictive_maintenance_project.git)
 2. Установите зависимости: 
    pip install -r requirements.txt 
 3. Запустите приложение: 
    streamlit run app.py 
-## Структура репозитория - `app.py`: Основной файл приложения. - `analysis_and_model.py`: Страница с анализом данных и моделью. - `presentation.py`: Страница с презентацией проекта. - `requirements.txt`: Файл с зависимостями. - `data/`: Папка с данными. - `README.md`: Описание проекта. 
+## Структура репозитория
+- `app.py`: Основной файл приложения. 
+- `analysis_and_model.py`: Страница с анализом данных и моделью.
+- `presentation.py`: Страница с презентацией проекта.
+- `requirements.txt`: Файл с зависимостями.
+- `README.md`: Описание проекта. 
 ## Видео-демонстрация 
 [Ссылка на видео](
- video/demo.mp4) или встроенное видео ниже: 
-<video src="video/demo.mp4" controls width="100%"></video> 
+<video src="proekt/video.mp4" controls width="100%"></video>)
